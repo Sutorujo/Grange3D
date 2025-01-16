@@ -2,7 +2,7 @@
 
 **_Description_**
 
-Entrez dans l'univers du théâtre de la Grange de Dorigny grâce à sa rendition 3D ! 
+Entrez dans l'univers du théâtre de la Grange de Dorigny grâce à sa version 3D ! 
 
 Conseil pour profiter à fond de votre expérience: Essayer de vous mettre en mode inspecteur et d'appuyer sur l'interrupteur rouge posé dans la régie ! Il vous allumera/ éteindra le projecteur !
 
