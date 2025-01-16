@@ -14,9 +14,12 @@ Ce projet a été développée par Jonathan Strübi et Norah Olivier dans le con
 
 Pour les textures, nous les avons récupérées sur Imgur et Freeimage. 
 Texture des rideaux: https://www.vecteezy.com/vector-art/586488-black-and-white-curtain-theater-scene-stage-background-backdrop-with-luxury-silk-velvet-abstract-texture 
+Texture du bois: https://ch.pinterest.com/pin/651262796099057057/ 
 
 Lien utile du plan technique de la Grange: https://www.grange-unil.ch/wp-content/uploads/sites/2/2024/07/fiche-technique-grange-juillet-2024.pdf 
 
 Nous avons utilisé l'aide de ChatGpt pour nous faire comprendre le code d'interrupteur. Cependant, cela n'a pas marché.
 
 **_GIF_**
+
+![ezgif com-animated-gif-maker](https://github.com/user-attachments/assets/cb56cb5b-029a-4f92-9d75-caf941a8f58e)
