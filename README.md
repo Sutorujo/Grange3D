@@ -20,6 +20,8 @@ Lien utile du plan technique de la Grange: https://www.grange-unil.ch/wp-content
 
 Nous avons utilisé l'aide de ChatGpt pour nous faire comprendre le code d'interrupteur. Cependant, cela n'a pas marché.
 
+GIF réalisé avec l'aide de ezgif: https://ezgif.com/ 
+
 **_GIF_**
 
 ![ezgif com-animated-gif-maker](https://github.com/user-attachments/assets/cb56cb5b-029a-4f92-9d75-caf941a8f58e)
