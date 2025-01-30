@@ -16,6 +16,7 @@ Pour les textures, nous les avons récupérées sur Imgur et Freeimage.
 Texture des rideaux : https://www.vecteezy.com/vector-art/586488-black-and-white-curtain-theater-scene-stage-background-backdrop-with-luxury-silk-velvet-abstract-texture 
 Texture des murs : https://ch.pinterest.com/pin/651262796099057057/ 
 Texture du toit et piliers : https://www.reddit.com/r/GoldenAgeMinecraft/comments/1gm2s4o/am_i_the_only_one_who_doesnt_like_the_modern_wood/?tl=fr#lightbox
+Texture gradins : https://www.indiamart.com/proddetail/dark-grey-carpet-tile-12294728197.html 
 
 Lien utile du plan technique de la Grange : https://www.grange-unil.ch/wp-content/uploads/sites/2/2024/07/fiche-technique-grange-juillet-2024.pdf 
 
