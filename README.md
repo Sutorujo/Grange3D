@@ -13,14 +13,15 @@ Ce projet a été développée par Jonathan Strübi et Norah Olivier dans le con
 **_Copyrights, ressources et récupération de code_**
 
 Pour les textures, nous les avons récupérées sur Imgur et Freeimage. 
-Texture des rideaux: https://www.vecteezy.com/vector-art/586488-black-and-white-curtain-theater-scene-stage-background-backdrop-with-luxury-silk-velvet-abstract-texture 
-Texture du bois: https://ch.pinterest.com/pin/651262796099057057/ 
+Texture des rideaux : https://www.vecteezy.com/vector-art/586488-black-and-white-curtain-theater-scene-stage-background-backdrop-with-luxury-silk-velvet-abstract-texture 
+Texture des murs : https://ch.pinterest.com/pin/651262796099057057/ 
+Texture du toit : https://www.reddit.com/r/GoldenAgeMinecraft/comments/1gm2s4o/am_i_the_only_one_who_doesnt_like_the_modern_wood/?tl=fr#lightbox
 
-Lien utile du plan technique de la Grange: https://www.grange-unil.ch/wp-content/uploads/sites/2/2024/07/fiche-technique-grange-juillet-2024.pdf 
+Lien utile du plan technique de la Grange : https://www.grange-unil.ch/wp-content/uploads/sites/2/2024/07/fiche-technique-grange-juillet-2024.pdf 
 
 Nous avons utilisé l'aide de ChatGpt pour nous faire comprendre le code d'interrupteur. Cependant, cela n'a pas marché.
 
-GIF réalisé avec l'aide de ezgif: https://ezgif.com/ 
+GIF réalisé avec l'aide de ezgif : https://ezgif.com/ 
 
 **_GIF_**
 
